@@ -1,0 +1,10 @@
+Python:
+-------
+pandas
+numby
+scikit-learn (LinearRegression)
+
+Power BI:
+-------
+Data Modeling
+Dax
